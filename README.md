@@ -11,8 +11,9 @@ a wellness technology company targeting women.
 - Tableau — data visualization and dashboard
 
 ## Data Source
-Fitbit Fitness Tracker Data via Kaggle — 33 users tracked over 
-March to April 2016
+FitBit Fitness Tracker Data via Kaggle — 33 users tracked 
+over March to April 2016
+Source: FitBit Fitness Tracker Data by Mobius on Kaggle
 
 ## Key Findings
 - Wednesday had the highest average daily steps at 7,511
